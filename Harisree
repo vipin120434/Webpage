@@ -1,0 +1,59 @@
+html
+Copy code
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harisree Oil Mill</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Light Blue background */
+            color: #000080; /* Navy Blue text */
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #000080; /* Navy Blue header background */
+            color: #f0f8ff; /* Light Blue header text */
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #000080; /* Navy Blue footer background */
+            color: #f0f8ff; /* Light Blue footer text */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Harisree Oil Mill</h1>
+    </header>
+
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to Harisree Oil Mill! We take pride in delivering quality products to our customers.</p>
+    </section>
+
+    <section>
+        <h2>Contact Us</h2>
+        <p>For inquiries, feel free to reach us at:</p>
+        <p>Mobile: 8590160696</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Harisree Oil Mill. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
